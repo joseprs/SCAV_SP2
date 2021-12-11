@@ -1,5 +1,10 @@
 # SCAV_SP2
 
+## Exercise 1
+
+## Exercise 2
+
+
 ## Exercise 3 & 4
 We have acheved, with FFMPEG, to create the streaming video to udp://127.0.0.1 using the port 44100 (normally used for local purposes) using the command that we can see on the script (function "streaming"). Furthermore, it also applies a MPEG4 codification.
 Due to this codification and other compression and VLC settings, the video is not really good and desn't has a good quality when we open it from VLC (as we can see in the following picture).
