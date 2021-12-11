@@ -11,3 +11,4 @@ But if we open it with the terminal, with this command "ffplay udp://127.0.0.1:2
 
 <img width="721" alt="Captura de pantalla 2021-12-11 a las 18 52 13" src="https://user-images.githubusercontent.com/59847264/145687812-4d30e867-2267-42a8-a45d-fd60b91227b8.png">
 
+The function that does the streaming also has the option to decide which ip and port to use.
