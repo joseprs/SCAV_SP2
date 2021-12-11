@@ -1,9 +1,10 @@
 # SCAV_SP2
 
 ## Exercise 1
+We have created a class called Exercise1, that has a unique argument that is the name of the video we want to convert and apply the compression. Then, we can call the convert function and the way that we want to do it (VP8, VP9, h265, AV1).
 
 ## Exercise 2
-
+This is a simple function with a single command, that we use to display the resulting two videos from above.
 
 ## Exercise 3 & 4
 We have acheved, with FFMPEG, to create the streaming video to udp://127.0.0.1 using the port 44100 (normally used for local purposes) using the command that we can see on the script (function "streaming"). Furthermore, it also applies a MPEG4 codification.
