@@ -1,4 +1,4 @@
-# SCAV_SP2
+# SCAV_SP3
 
 ## Exercise 1
 We have created a class called Exercise1, that has a unique argument that is the name of the video we want to convert and apply the compression. Then, we can call the convert function and the way that we want to do it (VP8, VP9, h265, AV1).
